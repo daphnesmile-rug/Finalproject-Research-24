@@ -25,6 +25,7 @@ The novels are:
 * Arthur Conan Doyle: 
     The Adventures of Sherlock Holmes (1892)
     The Hound of the Baskervilles (1902)
+
 There are two variables included in the research:
 * The dependent variable is the average number of words per sentence, categorized by short and long sentences. 
 * The independent Variable is the Author, Jane Austen or Arthur Conan Doyle. 
