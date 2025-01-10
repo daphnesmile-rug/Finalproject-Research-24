@@ -31,7 +31,7 @@ There are two variables included in the research:
 * The independent Variable is the Author, Jane Austen or Arthur Conan Doyle. 
 
 **Sampling Method**
-For sampling, the first 1000 sentences will be extracted from the text using a Python script, then words will be counted. Sentences are defined as text strings ending with punctuation marks, such as '.', '!' or '?'. Sentences between apostrophes ("") will not be considered as a separate sentence. Words are defined as text strings in sentences delimited by spaces: " ". Then depending on the average number of words per sentence, the sentences will be characterized as short or long. This data will be stored in a table as Table 1. Were the number of short and long sentences will be displayed per novel.
+For sampling, the first 1000 sentences will be extracted from the text using a Python script, then words will be counted. Sentences are defined as text strings ending with punctuation marks, such as '.', '!' or '?'. Sentences between apostrophes ("") will not be considered as a separate sentence. Words are defined as text strings in sentences delimited by spaces: " ". Then depending on the average number of words per sentence, the sentences will be characterized as short or long. The number of short and long sentences will be displayed per novel.
 
 **Analysis Plan**
 Python3 will be used for text processing, the extraction of sentences and words, and the counting of the words.
